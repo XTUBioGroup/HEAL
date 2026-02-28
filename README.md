@@ -41,3 +41,9 @@ python main.py \
   --train_path ../Dataset/Final_Datas/dataset_split/disease_disease_train_hybrid.csv \
   --test_path ../Dataset/Final_Datas/dataset_split/disease_disease_test_hybrid.csv
 ```
+# Cite
+```
+If you use HEAL in your research, please cite:
+Jianyi Hu, Xinqiang Wen, Zishan Zhou, Chengqian Lu, Ju Xiang, Ting-YinChen,Yongmei Hu*,Xiangmao Meng*.
+HEAL: Robust Disease Similarity Prediction via Semantic-TopologicalContrastive Learning[J].XXX, 2026.
+```
