@@ -44,6 +44,6 @@ python main.py \
 # Cite
 ```
 If you use HEAL in your research, please cite:
-Jianyi Hu, Xinqiang Wen, Zishan Zhou, Chengqian Lu, Ju Xiang, Ting-YinChen,Yongmei Hu*,Xiangmao Meng*.
+Jianyi Hu, Xinqiang Wen, Zishan Zhou, Chengqian Lu, Ju Xiang, Ting-Yin Chen,Yongmei Hu*,Xiangmao Meng*.
 HEAL: Robust Disease Similarity Prediction via Semantic-TopologicalContrastive Learning[J].XXX, 2026.
 ```
