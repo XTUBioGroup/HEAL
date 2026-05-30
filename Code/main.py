@@ -8,7 +8,7 @@ def main():
     parser = argparse.ArgumentParser(description="Run HEAL basic training and validation.")
 
     # Paths
-    parser.add_argument('--data_root', type=str, default='Dataset/Final_Datas',
+    parser.add_argument('--data_root', type=str, default='../Dataset',
                         help='Directory containing graph file and dataset_split folder.')
     parser.add_argument('--runs_dir', type=str, default='Experiment/runs/publicversion',
                         help='Directory to save training runs.')
