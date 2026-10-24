@@ -19,7 +19,7 @@ class SemanticRouter(nn.Module):
 
 
 class HEAL(nn.Module):
-    def __init__(self, data, h_dim=128, num_layers=2, num_heads=4):
+    def __init__(self, data, h_dim=256, num_layers=2, num_heads=4):
         super().__init__()
         self.h_dim = h_dim
         self.node_types = data.node_types
